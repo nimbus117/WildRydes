@@ -4,4 +4,6 @@ cognito pool id: eu-west-1_15nDMvr2K
 cognito app client name: WildRydesWebApp
 cognito app client id: 7qjniknkfqefdlmrmvr0m7cu0e
 # decode json web tokens - https://jwt.io/
+dynamodb table name: Rides
+dynomodb primary key/partition key: RideId
 
