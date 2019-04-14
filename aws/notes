@@ -6,4 +6,5 @@ cognito app client id: 7qjniknkfqefdlmrmvr0m7cu0e
 # decode json web tokens - https://jwt.io/
 dynamodb table name: Rides
 dynomodb primary key/partition key: RideId
+api gateway invoke url: https://miq87fm8ef.execute-api.eu-west-1.amazonaws.com/prod
 
